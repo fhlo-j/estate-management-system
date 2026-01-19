@@ -20,6 +20,4 @@ complaints, work orders, and administrative reporting from a single dashboard.
 - Express
 - MongoDB
 
-## Screenshots
 
-![Dashboard Screenshot](https://res.cloudinary.com/dlsvv8rqb/video/upload/v1752054878/copy_06BCAE69-F925-4DF2-9D05-50185AD33B3B-1749408234338_rraeyv.mp4)
